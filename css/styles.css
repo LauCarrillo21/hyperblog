@@ -1,6 +1,10 @@
 body {
     text-align: center;
+<<<<<<< HEAD
     background-color: pink;
+=======
+    background-color: red;
+>>>>>>> header
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
